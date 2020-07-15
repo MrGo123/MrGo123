@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying in GUET.
-- 😀 Welcome to my blog [MrGo123](https://zy68.top)
-- 💪 A nice day!!!
+- 🔭 I’m a undergraduate and studying in GUET.
+- 👯 Hoping to have move geek friends.
+- 😀 Welcome to my blog [MrGo123](https://zy68.top).
+- 💪 Have a nice day!!!
 
 <!--
 **MrGo123/MrGo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
