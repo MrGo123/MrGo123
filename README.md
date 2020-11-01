@@ -1,10 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MrGo123&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MrGo123&show_icons=true&">
 
-### Hi there, Sustart👋
+### Hi there, I'm Sustart👋
 
-- 🔭 I’m a undergraduate and studying in GUET.
-- 👯 Hoping to have move geek friends.
-- 😀 Welcome to my blog [MrGo123](https://zy68.top).
-- 💪 Have a nice day!!!
-
-
+- 😀 **About Me:** A undergraduate and studying in college.
+- 🚀 **Learning:** Java C/C++ 
+- 📑 **More:** Welcome to my blog [MrGo123](https://zy68.top).
+- 💪 **End:** Have a nice day!!!
