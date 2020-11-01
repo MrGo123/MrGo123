@@ -4,5 +4,5 @@
 
 - 😀 **About Me:** A undergraduate majoring Computer Science.
 - 🚀 **Learning:** Java C/C++.
-- 📑 **More:** Welcome to my blog [MrGo123](https://zy68.top).
+- 📑 **More:** Welcome to my blog [Sustart](https://zy68.top).
 - 🌹 **End:** Have a nice day!!!
