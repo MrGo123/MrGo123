@@ -6,6 +6,6 @@
 
 
 - 😀 **About Me:** A undergraduate majoring Computer Science.
-- 🚀 **Learning:** Java C/C++.
+- 🚀 **Learning:** Java.
 - 📑 **More:** Welcome to my blog [Sustart](https://zy68.top).
 - 🎅 **End:** Have a nice day!!!
