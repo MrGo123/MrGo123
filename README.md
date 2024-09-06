@@ -4,7 +4,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MrGo123&show_icons=true&hide_title=true" />
 
-&ensp;&ensp;&ensp;A college student majoring Computer Science in China💖.
 
 ✨ **Interesting**
 
@@ -15,9 +14,3 @@
 🎈 **Activing**
 
 &ensp;&ensp;&ensp;<a href="https://zy68.top" target="_blank">Blog</a> - <a href="https://twitter.com/SustartHe" target="_blank">Twitter</a> - <a href="https://medium.com/@zhuangyihe123" target="_blank">Medium</a>
-
-💥 **Vision**
-
-&ensp;&ensp;&ensp;Remain the original aspiration, keep the mission firmly.
-
-&ensp;&ensp;&ensp;Remain the starting point, keep the enthusiasm firmly.
